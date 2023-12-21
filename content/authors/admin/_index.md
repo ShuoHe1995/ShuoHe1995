@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shuo He
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shuo He
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shuo
+last_name: He
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Electronic Science and Technology of China
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuo He is a fourth year PhD candidate of artificial intelligence at the university of electronic science and technology of china (UESTC).
