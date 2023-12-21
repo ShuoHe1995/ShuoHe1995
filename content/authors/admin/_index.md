@@ -54,4 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Shuo He is a fourth year PhD candidate of artificial intelligence at the university of electronic science and technology of china (UESTC).
+Shuo He is currently a PhD candidate at the university of electronic science and technology of china (UESTC).
