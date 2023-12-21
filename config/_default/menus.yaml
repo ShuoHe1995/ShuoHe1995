@@ -8,8 +8,8 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: pub/
+    url: tags/
     weight: 20
   - name: Resources
-    url: res/
+    url: uses/
     weight: 30
